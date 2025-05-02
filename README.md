@@ -8,7 +8,7 @@ Table of Content
 1.Installation Instructions 2.Usage Information 3.Contribution 4.Tests 5.Questions
 
 Installation Instructions
-None other than clicking the link to the delpoyment. 
+None other than clicking the link to the delpoyment. https://cicdaction.onrender.com
 
 Usage Information
 GIVEN a full-stack application
@@ -21,7 +21,7 @@ THEN I should see those test results on GitHub Action and merge the code
 WHEN I push the code from the develop branch to the main branch
 THEN I should see that another GitHub Action triggers and should automatically deploy to Render
 
-Run the link to the deployed site.
+Run the link to the deployed site.https://cicdaction.onrender.com
 
 Contribution Not at this time, however comments and suggestions welcomed. Help with this project was given from the Bootcamp instructor, TAs, tutors and colaboration with classmates as needed.
 
