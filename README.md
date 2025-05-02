@@ -23,8 +23,7 @@ THEN I should see that another GitHub Action triggers and should automatically d
 
 Run the link to the deployed site.
 
-Contribution
-Not at this timem.
+Contribution Not at this time, however comments and suggestions welcomed. Help with this project was given from the Bootcamp instructor, TAs, tutors and colaboration with classmates as needed.
 
 License
 This project is licensed under the MIT License.
